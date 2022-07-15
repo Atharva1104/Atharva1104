@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atharva1104
+- 👋 Hi, I’m Atharva Bodake
 - 👀 I’m interested in Airtifical Intelligence 
 - 🌱 I’m currently learning B.E in Computer Engineering
 - 💞️ I’m looking to collaborate on Android Development
