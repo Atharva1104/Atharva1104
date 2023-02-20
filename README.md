@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Atharva Bodake
 - 👀 I’m interested in Artifical Intelligence and Web Development
-- 🌱 I’m currently learning B.E in Computer Engineering
-- 💞️ I’m looking to collaborate on AI and Web Development
+- 🌱 I’m currently pursuing Bacherlor's in Computer Engineering
+- 💞️ I’m looking to collaborate on AI and DS
 - 📫 Reach me at atharvabodake@gmail.com
 
 <!---
